@@ -4,6 +4,8 @@ Tableau dashboard integrating SQL, Python, and logistic regression to analyze lo
 
 This Tableau dashboard provides a comprehensive view of bank loan applications segmented by risk level, funding patterns, and repayment behavior. It integrates multiple data sources and advanced analytics techniques to drive smarter decision-making in loan approval workflows.
 
+Dashboard Link : https://public.tableau.com/views/BankLoanReport_17476716667410/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Key Features:
 
 Real-time loan KPIs: Total applications, funded amounts, interest rates, and DTI (Debt-to-Income) ratios.
