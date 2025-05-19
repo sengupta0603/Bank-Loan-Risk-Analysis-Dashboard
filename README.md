@@ -1,8 +1,7 @@
-# Bank-Loan-Risk-Analysis-Dashboard
-Tableau dashboard integrating SQL, Python, and logistic regression to analyze loan risk and generate automated system recommendations.
-
 
 # Bank Loan Risk Analysis Dashboard
+Tableau dashboard integrating SQL, Python, and logistic regression to analyze loan risk and generate automated system recommendations.
+
 This Tableau dashboard provides a comprehensive view of bank loan applications segmented by risk level, funding patterns, and repayment behavior. It integrates multiple data sources and advanced analytics techniques to drive smarter decision-making in loan approval workflows.
 
 # Key Features:
